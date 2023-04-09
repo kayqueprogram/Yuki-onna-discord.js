@@ -38,7 +38,7 @@ Moderação:
 
 ## 💻 Libs 
 
-- Discord.js
+- discord.js
 - @discordjs/rest
 - discord-api-types
 - chalk
@@ -46,7 +46,7 @@ Moderação:
 - newsapi
 - dotenv
 
-Use ```npm i``` em seu terminal, para instalar todas as dependecias necessárias, eu suas respectivas versões
+Use ```npm i``` em seu terminal, para instalar todas as dependecias necessárias, em suas respectivas versões
 
 ## 📖 O que aprendi?
 
